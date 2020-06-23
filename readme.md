@@ -7,10 +7,9 @@
 A drag drop layout/component based web building tool that gives html and css output built from available list of layout, components and templates.
  
 ## Screenshots
-<p>
-  <img style="width:40%;float:left" src="/assets/img/screenshot-1.jpg" alt="HomePage">
-  <img style="width:40%;float:right" src="/assets/img/screenshot-2.jpg" alt="EditPage">
-</p>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![HomePage](/assets/img/screenshot-1.jpg)  |  ![EditPage](/assets/img/screenshot-2.jpg)
 
 ## Features
  1. Built using *Vanilla JavaScript* 
