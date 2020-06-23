@@ -1,7 +1,7 @@
-<div style="text-align:center"><img src="https://imgur.com/OugVifS" /></div>
+![Edit Page](/assets/img/b7-logo.png)
 
-<div style="text-align:center"><h2>b7 Web Builder</h2></div>
-<div style="text-align:center"><h4>Drag your web idea and drop</h4></div>
+## b7 Web Builder
+#### Drag your web idea and drop
 A drag drop layout/component based web building tool that gives html and css output built from available list of layout, components and templates.
  
 ## Screenshots
