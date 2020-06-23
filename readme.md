@@ -1,5 +1,5 @@
 <p align="center">
-  ![Edit Page](/assets/img/b7-logo_50.png)
+  <img src="/assets/img/b7-logo_50.png">
 </p>
 
 ## b7 Web Builder
