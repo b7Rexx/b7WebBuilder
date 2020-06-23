@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Text",
+    "image": "assets/components/text.png",
+    "type": "text",
+    "component": {
+      "tagName": "DIV",
+      "innerText": "Text",
+      "attributes": [
+        {
+          "name": "class",
+          "value": "b7-component-text"
+        },
+        {
+          "name": "data-css",
+          "value": 1
+        }
+      ],
+      "children": []
+    }
+  },
+  {
+    "name": "Image",
+    "image": "assets/components/image.png",
+    "type": "image",
+    "component": {
+      "tagName": "DIV",
+      "innerText": "",
+      "attributes": [
+        {
+          "name": "class",
+          "value": "b7-component-image"
+        },
+        {
+          "name": "data-css",
+          "value": 1
+        }
+      ],
+      "children": [
+        {
+          "tagName": "img",
+          "innerText": "",
+          "attributes": [
+            {
+              "name": "class",
+              "value": "b7-image"
+            },
+            {
+              "name": "src",
+              "value": "assets/img/no-image.png"
+            },
+            {
+              "name": "alt",
+              "value": "image"
+            },
+            {
+              "name": "onerror",
+              "value": "errorImage(event)"
+            },
+            {
+              "name": "data-css",
+              "value": 1
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "name": "List",
+    "image": "assets/components/list.png",
+    "type": "list",
+    "component": {
+      "tagName": "DIV",
+      "innerText": "",
+      "attributes": [
+        {
+          "name": "class",
+          "value": "b7-component-list"
+        },
+        {
+          "name": "data-css",
+          "value": 1
+        }
+      ],
+      "children": [
+        {
+          "tagName": "ul",
+          "innerText": "",
+          "attributes": [
+            {
+              "name": "class",
+              "value": "b7-list"
+            },
+            {
+              "name": "data-css",
+              "value": 1
+            }
+          ],
+          "children": [
+            {
+              "tagName": "li",
+              "innerText": "List Item",
+              "attributes": [
+                {
+                  "name": "class",
+                  "value": "b7-item"
+                },
+                {
+                  "name": "data-css",
+                  "value": 1
+                }
+              ],
+              "children": []
+            },
+            {
+              "tagName": "li",
+              "innerText": "List Item",
+              "attributes": [
+                {
+                  "name": "class",
+                  "value": "b7-item"
+                },
+                {
+                  "name": "data-css",
+                  "value": 1
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Table",
+    "image": "assets/components/table.png",
+    "type": "table",
+    "component": {
+      "tagName": "DIV",
+      "innerText": "",
+      "attributes": [
+        {
+          "name": "class",
+          "value": "b7-component-table"
+        },
+        {
+          "name": "data-css",
+          "value": 1
+        }
+      ],
+      "children": [
+        {
+          "tagName": "table",
+          "innerText": "",
+          "attributes": [
+            {
+              "name": "class",
+              "value": "b7-table"
+            },
+            {
+              "name": "data-css",
+              "value": 1
+            }
+          ],
+          "children": [
+            {
+              "tagName": "thead",
+              "innerText": "",
+              "attributes": [],
+              "children": [
+                {
+                  "tagName": "tr",
+                  "innerText": "",
+                  "attributes": [],
+                  "children": [
+                    {
+                      "tagName": "th",
+                      "innerText": "Table head",
+                      "attributes": [],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tagName": "tbody",
+              "innerText": "",
+              "attributes": [],
+              "children": [
+                {
+                  "tagName": "tr",
+                  "innerText": "",
+                  "attributes": [],
+                  "children": [
+                    {
+                      "tagName": "td",
+                      "innerText": "Table data",
+                      "attributes": [],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Form",
+    "image": "assets/components/form.png",
+    "type": "form",
+    "component": {
+      "tagName": "DIV",
+      "innerText": "",
+      "attributes": [
+        {
+          "name": "class",
+          "value": "b7-component-form"
+        },
+        {
+          "name": "data-css",
+          "value": 1
+        }
+      ],
+      "children": [
+        {
+          "tagName": "form",
+          "innerText": "",
+          "attributes": [
+            {
+              "name": "class",
+              "value": "b7-form"
+            },
+            {
+              "name": "data-css",
+              "value": 1
+            },
+            {
+              "name": "action",
+              "value": "#"
+            }
+          ],
+          "children": [
+            {
+              "tagName": "div",
+              "innerText": "",
+              "attributes": [
+                {
+                  "name": "class",
+                  "value": "b7-fitem"
+                },
+                {
+                  "name": "data-css",
+                  "value": 1
+                },
+                {
+                  "name": "data-form-type",
+                  "value": "submit"
+                },
+                {
+                  "name": "data-form-default",
+                  "value": "submit"
+                }
+              ],
+              "children": [
+                {
+                  "tagName": "input",
+                  "innerText": "",
+                  "attributes": [
+                    {
+                      "name": "data-css",
+                      "value": 1
+                    },
+                    {
+                      "name": "type",
+                      "value": "submit"
+                    },
+                    {
+                      "name": "value",
+                      "value": "submit"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Iframe",
+    "image": "assets/components/iframe.png",
+    "type": "iframe",
+    "component": {
+      "tagName": "DIV",
+      "innerText": "iframe here",
+      "attributes": [
+        {
+          "name": "class",
+          "value": "b7-component-iframe"
+        },
+        {
+          "name": "data-css",
+          "value": 1
+        }
+      ],
+      "children": []
+    }
+  }
+]

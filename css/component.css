@@ -1,0 +1,150 @@
+.b7-component-image img {
+  height: 100%;
+  width: 100%;
+}
+
+.b7-list:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.b7-component-list[list-style="horizontal-list"] > ul > li {
+  float: left;
+  margin-left: 20px;
+}
+
+.b7-list {
+  margin-left: 20px;
+}
+
+.b7-component-list:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.b7-component-table {
+  overflow: auto;
+}
+
+.b7-item[data-dropdown="true"] {
+  /*position: relative;*/
+
+}
+
+ul.dropdown-content {
+  position: absolute;
+  display: none;
+  padding: 5px;
+  min-width: 150px;
+  z-index: 50;
+  border-radius: 10px;
+}
+
+ul.dropdown-content li {
+  /*display: block;*/
+  /*clear: both;*/
+}
+
+.b7-item[data-dropdown="true"]:hover ul.dropdown-content {
+  display: block;
+}
+
+.b7-component-form {
+  padding: 10px;
+}
+
+
+.b7-fitem {
+  margin: 15px 0;
+  font-size: 16 p x;
+  display: block;
+}
+
+.b7-fitem span {
+  display: inline-block;
+  width: 30%;
+  text-align: right;
+  padding: 0 10px
+}
+
+.b7-fitem label {
+  /*visibility: hidden;*/
+  font-size: 0;
+  width: 0;
+}
+
+.b7-fitem input {
+  display: inline-block;
+  width: 60%;
+  border-radius: 10px;
+  border: 2px solid lightgrey;
+  padding: 5px;
+}
+
+.b7-fitem[data-form-type="checkbox"],
+.b7-fitem[data-form-type="radio"] {
+  display: inline;
+}
+
+.b7-fitem[data-form-type="checkbox"] input,
+.b7-fitem[data-form-type="radio"] input {
+  width: 5%;
+}
+
+.b7-fitem[data-form-type="checkbox"] label,
+.b7-fitem[data-form-type="radio"] label {
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+.b7-fitem[data-form-type="button"],
+.b7-fitem[data-form-type="submit"] {
+  text-align: right;
+}
+
+.b7-fitem[data-form-type="button"] input,
+.b7-fitem[data-form-type="submit"] input {
+  width: 150px;
+  text-align: center;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.b7-fitem[data-form-type="button"] input:hover,
+.b7-fitem[data-form-type="submit"] input:hover {
+  background: lightgrey;
+}
+
+/*
+wide style form component
+ */
+.b7-component-form[data-form-style="compact"] .b7-fitem span {
+  text-align: left
+}
+
+.b7-component-form[data-form-style="compact"] .b7-fitem input {
+  width: 90%;
+}
+
+.b7-component-form[data-form-style="compact"] .b7-fitem[data-form-type="checkbox"] input,
+.b7-component-form[data-form-style="compact"] .b7-fitem[data-form-type="radio"] input {
+  width: 5%;
+}
+
+.b7-component-form[data-form-style="compact"] .b7-fitem[data-form-type="button"] input,
+.b7-component-form[data-form-style="compact"] .b7-fitem[data-form-type="submit"] input {
+  width: 150px;
+}
+
+.b7-component-iframe {
+  padding: 20px;
+  overflow: hidden;
+}
+
+.b7-component-image {
+  height: 200px;
+  width: 200px;
+}
