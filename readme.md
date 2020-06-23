@@ -1,4 +1,6 @@
-<img align="center" width="70" height="70" src="/assets/img/b7-logo.png" alt="Logo">
+<p align="center">
+  <img align="center" width="70" height="70" src="/assets/img/b7-logo.png" alt="Logo">
+</p>
 <h2 align="center">b7 Web Builder</h2>
 <h4 align="center">Drag your web idea and drop</h4>
 <p align="center">
