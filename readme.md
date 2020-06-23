@@ -2,12 +2,14 @@
   <img width="80" height="80" src="/assets/img/b7-logo.png" alt="Logo">
 </p>
 
-## b7 Web Builder
-#### Drag your web idea and drop
-A drag drop layout/component based web building tool that gives html and css output built from available list of layout, components and templates.
+<h2 align="center">b7 Web Builder</h2>
+<h4 align="center">Drag your web idea and drop</h4>
+<p align="center">
+  A drag drop layout/component based web building tool that gives html and css output built from available list of layout, components and templates.
+</p>
  
 ## Screenshots
-Solarized dark             |  Solarized Ocean
+Home Page             |  Edit Page
 :-------------------------:|:-------------------------:
 ![HomePage](/assets/img/screenshot-1.jpg)  |  ![EditPage](/assets/img/screenshot-2.jpg)
 
@@ -22,7 +24,9 @@ Solarized dark             |  Solarized Ocean
       * progress.json ( continue editing later with the obtained progress.json file by uploading file from **upload progress** )
 
 ## Installation
-> git clone https://github.com/b7Rexx/b7WebBuilder
+
+> git clone *https://github.com/b7Rexx/b7WebBuilder*
+
 > run index.html 
 
 ## How to use?
