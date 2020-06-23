@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/img/b7-logo_50.png">
+  <img width="80" height="80" src="/assets/img/b7-logo.png" alt="Logo">
 </p>
 
 ## b7 Web Builder
@@ -7,8 +7,10 @@
 A drag drop layout/component based web building tool that gives html and css output built from available list of layout, components and templates.
  
 ## Screenshots
-![Home Page](https://imgur.com/UhgYJaj)
-![Edit Page](https://imgur.com/d4y57vI)
+<p>
+  <img width="50%" src="/assets/img/screenshot-1.png" alt="HomePage">
+  <img width="50%" src="/assets/img/screenshot-2.png" alt="EditPage">
+</p>
 
 ## Features
  1. Built using *Vanilla JavaScript* 
