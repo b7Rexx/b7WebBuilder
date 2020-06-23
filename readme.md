@@ -1,26 +1,26 @@
-![Edit Page](https://ibb.co/pQscn2X)
+<div style="text-align:center"><img src="https://imgur.com/OugVifS" /></div>
 
-## b7 Web Builder
-#### Drag your web idea and drop
+<div style="text-align:center"><h2>b7 Web Builder</h2></div>
+<div style="text-align:center"><h4>Drag your web idea and drop</h4></div>
 A drag drop layout/component based web building tool that gives html and css output built from available list of layout, components and templates.
  
 ## Screenshots
-![Home Page](https://ibb.co/mDHX8N1)
-![Edit Page](https://ibb.co/w7hQg2C)
+![Home Page](https://imgur.com/UhgYJaj)
+![Edit Page](https://imgur.com/d4y57vI)
 
 ## Features
- > Built using *Vanilla JavaScript* 
- > Drag and drop components with available templates or your own saved templates to build your custom website.
- > Style layouts and component with available tools
- > Preview and download completed website 
-  * b7Webuilder.html 
-  * custom.css 
-  * custom.js
-  * progress.json ( continue editing later with the obtained progress.json file by uploading file from **upload progress** )
+ 1. Built using *Vanilla JavaScript* 
+ 2. Drag and drop components with available templates or your own saved templates to build your custom website.
+ 3. Style layouts and component with available tools.
+ 4. Preview and download completed website :
+      * b7Webuilder.html 
+      * custom.css 
+      * custom.js
+      * progress.json ( continue editing later with the obtained progress.json file by uploading file from **upload progress** )
 
 ## Installation
-* git clone https://github.com/b7Rexx/b7WebBuilder
-* run index.html 
+> git clone https://github.com/b7Rexx/b7WebBuilder
+> run index.html 
 
 ## How to use?
 1. Select Template / Start new / Upload your progress
