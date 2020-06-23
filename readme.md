@@ -8,8 +8,8 @@ A drag drop layout/component based web building tool that gives html and css out
  
 ## Screenshots
 <p>
-  <img width="50%" src="/assets/img/screenshot-1.png" alt="HomePage">
-  <img width="50%" src="/assets/img/screenshot-2.png" alt="EditPage">
+  <img width="50%" src="/assets/img/screenshot-1.jpg" alt="HomePage">
+  <img width="50%" src="/assets/img/screenshot-2.jpg" alt="EditPage">
 </p>
 
 ## Features
