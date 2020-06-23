@@ -1,4 +1,6 @@
-![Edit Page](/assets/img/b7-logo.png)
+<p align="center">
+  ![Edit Page](/assets/img/b7-logo_50.png)
+</p>
 
 ## b7 Web Builder
 #### Drag your web idea and drop
